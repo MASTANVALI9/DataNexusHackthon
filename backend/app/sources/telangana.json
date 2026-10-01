@@ -1,0 +1,19 @@
+{
+  "jurisdiction": "Telangana",
+  "state_code": "TS",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "Digital Media Wing (GoTS)",
+      "url": "https://digitalmedia.telangana.gov.in",
+      "type": "State Information Bureau",
+      "description": "Information Technology, Electronics & Communications Department, Government of Telangana."
+    },
+    {
+      "name": "Government of Telangana Portal",
+      "url": "https://telangana.gov.in",
+      "type": "State Official Portal",
+      "description": "Primary portal for Telangana Government orders, press releases, and circulars."
+    }
+  ]
+}

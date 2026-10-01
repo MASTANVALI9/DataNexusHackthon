@@ -1,0 +1,19 @@
+{
+  "jurisdiction": "Andaman & Nicobar Islands",
+  "ut_code": "AN",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "Andaman & Nicobar Administration",
+      "url": "https://andaman.gov.in",
+      "type": "UT Administration Official Portal",
+      "description": "Official portal for the Union Territory Administration of Andaman & Nicobar."
+    },
+    {
+      "name": "The Daily Telegrams (Official Daily)",
+      "url": "https://dt.andaman.gov.in",
+      "type": "Official Administration Publication",
+      "description": "Daily newspaper published by the Directorate of IP&T, A&N Administration."
+    }
+  ]
+}

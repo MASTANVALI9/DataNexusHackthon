@@ -1,0 +1,24 @@
+{
+  "jurisdiction": "Central Government / India",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "Press Information Bureau (PIB)",
+      "url": "https://pib.gov.in",
+      "type": "Official Government Press Bureau",
+      "description": "Nodal agency of the Government of India to disseminate information on government policies and initiatives."
+    },
+    {
+      "name": "The Gazette of India",
+      "url": "https://egazette.gov.in",
+      "type": "Official Public Record / Gazette",
+      "description": "Authorized legal document published by the Directorate of Printing, Government of India."
+    },
+    {
+      "name": "National Portal of India",
+      "url": "https://india.gov.in",
+      "type": "Central Government Portal",
+      "description": "Single-window access to information and services provided by the Indian Government."
+    }
+  ]
+}

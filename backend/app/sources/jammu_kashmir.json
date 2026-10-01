@@ -1,0 +1,19 @@
+{
+  "jurisdiction": "Jammu & Kashmir",
+  "ut_code": "JK",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "DIPR Jammu & Kashmir",
+      "url": "https://dipr.jk.gov.in",
+      "type": "UT Information Bureau",
+      "description": "Department of Information and Public Relations, Government of Jammu and Kashmir."
+    },
+    {
+      "name": "Jammu & Kashmir Official Portal",
+      "url": "https://jk.gov.in",
+      "type": "UT Administration Official Portal",
+      "description": "State/UT administrative portal for public announcements and notifications."
+    }
+  ]
+}

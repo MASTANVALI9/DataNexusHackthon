@@ -1,0 +1,19 @@
+{
+  "jurisdiction": "Tamil Nadu",
+  "state_code": "TN",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "DIPR Tamil Nadu",
+      "url": "https://dipr.tn.gov.in",
+      "type": "State Information Bureau",
+      "description": "Department of Information and Public Relations, Government of Tamil Nadu."
+    },
+    {
+      "name": "Government of Tamil Nadu Portal",
+      "url": "https://tn.gov.in",
+      "type": "State Official Portal",
+      "description": "Official government website publishing government orders and press announcements."
+    }
+  ]
+}

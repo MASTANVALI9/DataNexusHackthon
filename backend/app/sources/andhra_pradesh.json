@@ -1,0 +1,19 @@
+{
+  "jurisdiction": "Andhra Pradesh",
+  "state_code": "AP",
+  "country_code": "IN",
+  "sources": [
+    {
+      "name": "Information & Public Relations (GoAP)",
+      "url": "https://ipr.ap.gov.in",
+      "type": "State Information Bureau",
+      "description": "Official dissemination agency for Government of Andhra Pradesh press notes and announcements."
+    },
+    {
+      "name": "Government of Andhra Pradesh Portal",
+      "url": "https://ap.gov.in",
+      "type": "State Official Portal",
+      "description": "Central state administrative portal for policy releases and notifications."
+    }
+  ]
+}
